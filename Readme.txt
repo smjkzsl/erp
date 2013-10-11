@@ -1,6 +1,6 @@
-What is VBC6.EXE?
+﻿What is VBC6.EXE?
 -----------------
-ʲô
+中国话
 VBC6.EXE is a utility designed to fix License problems with ActiveX 
 Controls that ship with Microsoft Visual Basic 6.0.  The utility will 
 not fix third party controls, or controls not normally installed by 
